@@ -8,6 +8,18 @@ It also saves time and money by eliminating the need for manual documentation fo
 ## Android App is Built with 
 - Kotlin
 
+## Requirements
+- minSdkVersion 22 (Android 5.0/LOLLIPOP)
+- targetSdkVersion 30 (Android 11/R)
+
+## Usage
+```
+download the zip file of this repository
+open it in android studio
+gradle will automatically install the required dependencies 
+run the app in emulator
+```
+
 # ScreenShots
 ![Login](https://github.com/code2me/Invoid/blob/main/img/loginActivity.jpg?raw=true)
 
@@ -17,10 +29,4 @@ It also saves time and money by eliminating the need for manual documentation fo
 
 ![Main Screen](https://github.com/code2me/Invoid/blob/main/img/mainScreen.jpg?raw=true)
 
-## Usage
-```
-download the zip file of this repository
-open it in android studio
-gradle will automatically install the required dependencies 
-run the app in emulator
-```
+
