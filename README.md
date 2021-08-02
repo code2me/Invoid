@@ -15,7 +15,7 @@ It also saves time and money by eliminating the need for manual documentation fo
 ## Usage
 ```
 download the zip file of this repository
-open it in android studio
+extract it and open it in android studio
 gradle will automatically install the required dependencies 
 run the app in emulator
 ```
